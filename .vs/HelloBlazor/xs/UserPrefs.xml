@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{2A2B5719-82C2-4818-89A9-7C36DA8B2D0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloBlazor/Pages/Dialog.razor">
+    <Files>
+      <File FileName="HelloBlazor/Pages/Index.razor" Line="1" Column="1" />
+      <File FileName="HelloBlazor/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="HelloBlazor/Pages/Dialog.razor" Line="20" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloBlazor" expanded="True">
+            <Node name="HelloBlazor" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Dialog.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloBlazor PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
