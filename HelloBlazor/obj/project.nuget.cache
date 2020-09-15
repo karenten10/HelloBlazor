@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eui0lFg3bnMpeO+Z1je3xYaKW85ODbEwyq0VJrAAAJcmYeDN4UPRMAp/VfXh4QZdjMJxWqwGpApnoP1jzhb3eA==",
+  "dgSpecHash": "OCjQKSAMpH5ZHEW2kR2SRx99Ox4k+hKatn8eOEKnshzyAaNjQtGWAbktGQ9QSJi8zjL9qcd3GjEJqseqfSSnYw==",
   "success": true,
-  "projectFilePath": "/Users/karen/Projects/HelloBlazor/HelloBlazor/HelloBlazor.csproj",
+  "projectFilePath": "D:\\practice\\HelloBlazor\\HelloBlazor\\HelloBlazor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
