@@ -101,3 +101,5 @@ D:\practice\HelloBlazor\HelloBlazor\obj\Debug\netcoreapp3.1\HelloBlazor.dll
 D:\practice\HelloBlazor\HelloBlazor\obj\Debug\netcoreapp3.1\HelloBlazor.pdb
 D:\practice\HelloBlazor\HelloBlazor\obj\Debug\netcoreapp3.1\HelloBlazor.genruntimeconfig.cache
 D:\practice\HelloBlazor\HelloBlazor\obj\Debug\netcoreapp3.1\HelloBlazor.csproj.CopyComplete
+D:\practice\HelloBlazor\HelloBlazor\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\MultiRoute.razor.g.cs
+D:\practice\HelloBlazor\HelloBlazor\obj\Debug\netcoreapp3.1\Razor\Pages\MultiRoute.razor.g.cs
